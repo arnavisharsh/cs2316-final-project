@@ -1,0 +1,160 @@
+Date Posted,Reference #,Pathogen or Cause of Illness,Product(s) Linked to Illnesses (if any),Total Case Count,Investigation Status,Outbreak/Event Status,Recall Initiated,Traceback Initiated,Inspection Initiated,Sampling Initiated,Case Count URL,Case Count Text,Count Type
+2026-10-28,1424,Salmonella Javiana,Unknown,65,Active,Ongoing,Not indicated,Yes,Not indicated,Not indicated,,65,Illness cases
+2026-09-30,1415,Listeria monocytogenes,Unknown,11,Active,Ongoing,Not indicated,Yes,Yes,Yes,,11,Illness cases
+2026-09-25,1419,E. coli O26:H11,Raw Milk Cheese,Unknown,Active,Ongoing,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o26h11-raw-milk-cheese-september-2026,See Advisory,See linked source
+2026-09-23,1421 ( USDA 2026-04 ),E. coli O157:H7,Multi-ingredient wrap with chicken,50,Active,Ended,Not indicated,Yes,Yes,Yes,,50,Illness cases
+2026-09-23,1417,Listeria monocytogenes,Unknown,51,Active,Ongoing,Not indicated,Yes,Yes,Yes,,51,Illness cases
+2026-09-10,1411,Salmonella Bovismorbificans,Sprouts,Unknown,Active,Ended,Yes,Yes,Not indicated,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-sprouts-september-2026,See Advisory,See linked source
+2026-08-19,1394,E. coli (multiple strains) & Salmonella Agona,Alfalfa Sprouts,Unknown,Active,Ongoing,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-shiga-toxin-producing-e-coli-salmonella-sprouts-august-2026,See Advisory,See linked source
+2026-08-05,1398,Cyclospora,Unknown,22,Active,Ended,Not indicated,Yes,Not indicated,Yes,,22,Illness cases
+2026-07-22,1379,Listeria monocytogenes,Unknown,12,Active,Ended,Not indicated,Yes,Yes,Yes,,12,Illness cases
+2026-07-15,1390,Cyclospora,Iceberg Lettuce,Unknown,Active,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/investigation-multistate-outbreak-cyclospora-illnesses-iceberg-lettuce-july-2026,See Advisory,See linked source
+2026-11-04,1396,Cyclospora,Unknown,66,Closed,Ended,Not indicated,Yes,Not indicated,Yes,,66,Illness cases
+2026-08-26,1403,Salmonella Newport,Unknown,119,Closed,Ended,Not indicated,Yes,Not indicated,Yes,,119,Illness cases
+2026-08-12,1402,"Salmonella I 4,[5],12:i:-",Romaine,43,Closed,Ended,Not indicated,Yes,Yes,Yes,,43,Illness cases
+2026-07-22,1392,Cyclospora,Parsley,175,Closed,Ended,Not indicated,Yes,Not indicated,Yes,,175,Illness cases
+2026-07-22,1395,Salmonella Javiana,Jalapeño Peppers,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-jalapeno-august-2026,See Advisory,See linked source
+2026-07-08,1385,Cyclospora,Unknown,38,Closed,Ended,Not indicated,Yes,Not indicated,Yes,,38,Illness cases
+2026-07-08,1387,Salmonella Oranienburg,Unknown,99,Closed,Ended,Not indicated,Yes,Yes,Yes,,99,Illness cases
+2026-07-08,1384,Cyclospora,Unknown,18,Closed,Ended,Not indicated,Yes,Not indicated,Not indicated,,18,Illness cases
+2026-07-06,1389,E. coli O145:H28,Frozen Blueberries,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o145h28-frozen-blueberries-july-2026,See Advisory,See linked source
+2026-07-01,1382,E. coli O157:H7,Romaine Lettuce,14,Closed,Ended,Not indicated,Yes,Not indicated,Not indicated,,14,Illness cases
+2026-06-13,1383,Clostridium botulinum,Powdered Infant Formula,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-powdered-infant-formula-june-2026,See Advisory,See linked source
+2026-06-10,1378,Salmonella Enteritidis,Eggs,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-eggs-july-2026,See Advisory,See linked source
+2026-06-03,1380,Listeria monocytogenes,Requeson/Soft Ricotta Cheese,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-soft-cheese-june-2026,See Advisory,See linked source
+2026-05-20,1377,Salmonella Typhimurium,Moringa Leaf Powder,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-may-2026,See Advisory,See linked source
+2026-03-16,1369,E. coli O157:H7,Raw Cheddar Cheese,Unknown,Closed,Ended,Yes,Not indicated,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-march-2026,See Advisory,See linked source
+2026-02-25,1366,Salmonella Newport,Cantaloupe,70,Closed,Ended,Not indicated,Yes,Yes,Yes,,70,Illness cases
+2026-02-11,1365,Salmonella Newport & Kentucky,Moringa Powder,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-extensively-drug-resistant-salmonella-moringa-powder-february-2026,See Advisory,See linked source
+2026-01-14,1358,"Salmonella Typhimurium, Newport, and Richmond",Moringa Leaf Powder,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-january-2026,See Advisory,See linked source
+2025-12-10,1351,Salmonella Africana,Unknown,12,Closed,Ended,Not indicated,Yes,Yes,Yes,,12,Illness cases
+2025-12-03,1353,Salmonella Saintpaul,Mango,56,Closed,Ended,Not indicated,Yes,Not indicated,Not indicated,,56,Illness cases
+2025-11-08,1350,Clostridium botulinum,Infant Formula,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-infant-formula-november-2025?utm_medium=email&utm_source=govdelivery,See Advisory,See linked source
+2025-10-16,1345,Salmonella Richmond,Moringa Leaf Powder,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-moringa-leaf-powder-october-2025,See Advisory,See linked source
+2025-09-17,1339,Salmonella Lomalinda,Spring Mix,40,Closed,Ended,Not indicated,Yes,Yes,Yes,,40,Illness cases
+2025-09-17,1334,Listeria monocytogenes,Unknown,8,Closed,Ended,Not indicated,Yes,Yes,Yes,,8,Illness cases
+2025-09-04,1309,Listeria monocytogenes,Unknown,27,Closed,Ended,Not indicated,Yes,Not indicated,Not indicated,,27,Illness cases
+2025-08-27,1329,Salmonella Enteritidis,Unknown,45,Closed,Ended,Not indicated,Yes,Yes,Yes,,45,Illness cases
+2025-08-20,1328,Salmonella Oranienburg,Sprouts,5,Closed,Ended,Not indicated,Yes,Yes,Yes,,5,Illness cases
+2025-08-13,1325,Cyclospora cayetanensis,Parsley,69,Closed,Ended,Not indicated,Yes,Yes,Yes,,69,Illness cases
+2025-07-16,1316,Salmonella Oranienburg,Unknown,25,Closed,Ended,Not indicated,Yes,Not indicated,Not indicated,,25,Illness cases
+2025-07-16,1313,Cyclospora cayetanensis,Unknown,48,Closed,Ended,Not indicated,Yes,Yes,Yes,,48,Illness cases
+2025-07-09,1312,Salmonella Anatum,Sprouted Beans,Unknown,Closed,Ended,Yes,Not indicated,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-deep-brand-frozen-products-july-2025,See Advisory,See linked source
+2025-06-13,1311,Salmonella Oranienburg,Pistachio Cream,Unknown,Closed,Ended,Yes,Yes,Not indicated,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-pistachio-cream-june-2025,See Advisory,See linked source
+2025-05-14,1303,E. coli O145:H28,Unknown,11,Closed,Ended,Not indicated,Yes,Yes,Yes,,11,Illness cases
+2025-05-14,1304,Salmonella Montevideo,Cucumbers,Unknown,Closed,Ended,Yes,Yes,Not indicated,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-cucumbers-may-2025,See Advisory,See linked source
+2025-05-07,1302,Hepatitis A virus,Unknown,5,Closed,Ended,Not indicated,Yes,Not indicated,Not indicated,,5,Illness cases
+2025-04-30,1305 ( USDA 2025-06 ),Listeria monocytogenes,Ready-to-Eat Foods,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-ready-eat-foods-may-2025,See Advisory,See linked source
+2025-04-23,1301,Salmonella Enteritidis,Eggs,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-eggs-august-2025,See Advisory,See linked source
+2025-04-23,1300,Salmonella Enteritidis,Eggs,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-eggs-june-2025,See Advisory,See linked source
+2025-04-09,1290 ( USDA 2025-05 ),Listeria monocytogenes,Prepared Pasta Meals,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-prepared-pasta-meals-june-2025,See Advisory,See linked source
+2025-03-13,1286,Listeria monocytogenes,Unknown,30,Closed,Ended,Not indicated,Not indicated,Yes,Yes,,30,Illness cases
+2025-03-05,1292,Listeria monocytogenes,Unknown,3,Closed,Ended,Not indicated,Yes,Yes,Yes,,3,Illness cases
+2025-02-20,1291,Salmonella Newport,Unknown,36,Closed,Ended,Not indicated,Yes,Yes,Yes,,36,Illness cases
+2025-02-05,1288,Salmonella Enteritidis,Mini Pastries,Unknown,Closed,Ended,Yes,Yes,Yes,Not indicated,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-mini-pastries-january-2025,See Advisory,See linked source
+2025-01-15,1285,Listeria monocytogenes,Unknown,36,Closed,Ended,Not indicated,Yes,Yes,Yes,,36,Illness cases
+2024-12-26,1281,Listeria monocytogenes,Frozen Shakes,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-frozen-supplemental-shakes-february-2025,See Advisory,See linked source
+2024-12-11,1282,E. coli O145:H28,Unknown,8,Closed,Ended,Not indicated,Yes,Not indicated,Not indicated,,8,Illness cases
+2024-12-04,1280,E. coli O157:H7,Romaine Lettuce,89,Closed,Ended,Not indicated,Yes,Yes,Yes,,89,Illness cases
+2024-11-27,1277,Salmonella Typhimurium,Imported Cucumbers,Unknown,Closed,Ended,Yes,Yes,Yes,Not indicated,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-cucumbers-november-2024,See Advisory,See linked source
+2024-11-06,1273,E. coli O121:H19,Organic Carrots,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o121h19-organic-carrots-november-2024,See Advisory,See linked source
+2024-10-30,1272,E. coli O26:H11,Sprouts,10,Closed,Ended,Not indicated,Yes,Yes,Yes,,10,Illness cases
+2024-10-23,1270,E. coli O157:H7,Onions,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-onions-october-2024,See Advisory,See linked source
+2024-11-14,1269,E. coli O157:H7,Unknown,26,Closed,Ended,Not indicated,Yes,Not indicated,Not indicated,,26,Illness cases
+2024-10-23,1268,Listeria monocytogenes,Alfalfa Sprouts,4,Closed,Ended,Not indicated,Yes,Yes,Yes,,4,Illness cases
+2024-10-17,1262,Salmonella Thompson,Unknown,25,Closed,Ended,Not indicated,Yes,Not indicated,Not indicated,,25,Illness cases
+2024-10-09,1265,Salmonella Liverpool,Unknown,3,Closed,Ended,Not indicated,Not indicated,Not indicated,Not indicated,,3,Illness cases
+2024-09-04,1250,Salmonella Enteritidis,Eggs,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-eggs-sept-2024,See Advisory,See linked source
+2024-08-28,1249,E. coli O157:H7,Spinach,28,Closed,Ended,Not indicated,Yes,Yes,Yes,,28,Illness cases
+2024-08-21,1247,Listeria monocytogenes,Unknown,4,Closed,Ended,Not indicated,Yes,Not indicated,Yes,,4,Illness cases
+2024-08-07,1248,Salmonella Newport,Unknown,9,Closed,Ended,Not indicated,Yes,Yes,Not indicated,,9,Illness cases
+2024-08-07,1245,Cyclospora cayetanensis,Shrimp Salad,61,Closed,Ended,Not indicated,Yes,Yes,Yes,,61,Illness cases
+2024-07-31,1237,Cyclospora cayetanensis,Imported Parsley,49,Closed,Ended,Not indicated,Yes,Yes,Yes,,49,Illness cases
+2024-07-10,1235,Salmonella Irumu,Mangoes,32,Closed,Ended,Not indicated,Yes,Not indicated,Yes,,32,Illness cases
+2024-06-19,1234,Salmonella Typhimurium,Jalapeno Pepper,90,Closed,Ended,Not indicated,Yes,Yes,Yes,,90,Illness cases
+2024-06-12,1233,Unknown,"Chocolate, Gummies, Cones",Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/investigation-illnesses-diamond-shruumz-brand-chocolate-bars-cones-gummies-june-2024,See Advisory,See linked source
+2024-05-22,1227,Salmonella Africana & Braenderup,Cucumbers,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-cucumbers-june-2024,See Advisory,See linked source
+2024-05-22,1232,Listeria monocytogenes,Bagged Salad Mix,2,Closed,Ended,Not indicated,Yes,Yes,Yes,,2,Illness cases
+2024-04-17,1221,E. coli O157:H7,Organic Walnuts,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-bulk-organic-walnuts-april-2024,See Advisory,See linked source
+2024-04-10,1218,Salmonella Typhimurium,Organic Fresh Basil,Unknown,Closed,Ended,Yes,Yes,Not indicated,Not indicated,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-organic-basil-april-2024,See Advisory,See linked source
+2024-02-20,1215,E. coli O157:H7,Raw Cheddar Cheese,Unknown,Closed,Ended,Yes,Yes,Not indicated,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-raw-cheddar-cheese-february-2024,See Advisory,See linked source
+2024-01-24,1214,Listeria monocytogenes,Queso Fresco and Cotija Cheese,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-queso-fresco-and-cotija-cheese-february-2024,See Advisory,See linked source
+2023-12-06,1205,Listeria monocytogenes,Unknown,3,Closed,Ended,Not indicated,Yes,Yes,Yes,,3,Illness cases
+2023-11-22,1201,Salmonella Newport,Unknown,45,Closed,Ended,Not indicated,Yes,Not indicated,Not indicated,,45,Illness cases
+2023-11-22,1203,Salmonella Sundsvall and Oranienburg,Cantaloupe,Unknown,Closed,Ended,Yes,Yes,Not indicated,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-cantaloupes-november-2023,See Advisory,See linked source
+2023-11-15,989,Listeria monocytogenes,"Peaches, Plums, and Nectarines",Unknown,Closed,Ended,Yes,Not indicated,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-peaches-plums-nectarines-november-2023,See Advisory,See linked source
+2023-11-15,1192,E. coli O103,Unknown,12,Closed,Ended,Not indicated,Yes,Not indicated,Not indicated,,12,Illness cases
+2023-11-08,1198,Elevated Lead & Chromium Levels,Apple Cinnamon Puree,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/investigation-elevated-lead-chromium-levels-cinnamon-applesauce-pouches-november-2023,See Advisory,See linked source
+2023-11-01,1195,E. coli O121:H19,Unknown,37,Closed,Ended,Not indicated,Yes,Yes,Yes,,37,Illness cases
+2023-10-04,1190,Salmonella Thompson,Onions,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-onions-october-2023,See Advisory,See linked source
+2023-08-30,1179,Salmonella Newport,Watermelon and Cantaloupe,11,Closed,Ended,Not indicated,Yes,Yes,Yes,,11,Illness cases
+2023-08-30,1174,Cryptosporidium,Unknown,11,Closed,Ended,Not indicated,Yes,Not indicated,Not indicated,,11,Illness cases
+2023-08-09,1172,Listeria monocytogenes,Ice Cream,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-ice-cream-august-2023,See Advisory,See linked source
+2023-07-26,1171,Cyclospora cayetanensis,Unknown,59,Closed,Ended,Not indicated,Yes,Not indicated,Yes,,59,Illness cases
+2023-07-26,1165,E. coli O26,Unknown,13,Closed,Ended,Not indicated,Yes,Not indicated,Not indicated,,13,Illness cases
+2023-07-12,1166,E. coli O157:H7,Unknown,12,Closed,Ended,Not indicated,Yes,Not indicated,Not indicated,,12,Illness cases
+2023-07-06,1163,Cyclospora cayetanensis,Unknown,140,Closed,Ended,Not indicated,Yes,Not indicated,Yes,,140,Illness cases
+2023-06-14,1159,Cyclospora cayetanensis,Unknown,72,Closed,Ended,Not indicated,Yes,Yes,Yes,,72,Illness cases
+2023-06-14,1157,Salmonella Paratyphi B var. L(+) tartrate+,Pico de Gallo,37,Closed,Ended,Not indicated,Yes,Yes,Yes,,37,Illness cases
+2023-05-24,1156,Salmonella Enteritidis,Raw Cookie Dough,Unknown,Closed,Ended,Not indicated,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-raw-cookie-dough-may-2023,See Advisory,See linked source
+2023-05-24,1155,Cyclospora cayetanensis,Broccoli,20,Closed,Ended,Not indicated,Yes,Not indicated,Yes,,20,Illness cases
+2023-04-26,1152,Unknown,Morel Mushroom,Unknown,Closed,Ended,Not indicated,Yes,Not indicated,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/investigation-illnesses-morel-mushrooms-may-2023,See Advisory,See linked source
+2023-03-29,1141,Salmonella Infantis,Raw Flour,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-flour-april-2023,See Advisory,See linked source
+2023-03-08,1144,Salmonella Hartford,Unknown,54,Closed,Ended,Not indicated,Yes,Yes,Yes,,54,Illness cases
+2023-03-01,1143,Hepatitis A Virus,Frozen Strawberries,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-infections-frozen-strawberries-february-2023,See Advisory,See linked source
+2023-02-15,1123,Listeria monocytogenes,Leafy Greens,Unknown,Closed,Ended,Not indicated,Yes,Yes,Yes,http://www.cdc.gov/listeria/outbreaks/monocytogenes-02-23/index.html,See CDC Notice,See linked source
+2022-12-28,1137,Salmonella Typhimurium,Alfalfa Sprouts,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-sprouts-december-2022,See Advisory,See linked source
+2022-11-16,1113,Salmonella Typhimurium,Unknown,274,Closed,Ended,Not indicated,Yes,Not indicated,Yes,,274,Illness cases
+2022-11-09,1127,Listeria monocytogenes,Enoki Mushrooms,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-enoki-mushrooms-november-2022,See Advisory,See linked source
+2022-10-24,1121,E. coli O157:H7,Unknown,11,Closed,Ended,Not indicated,Yes,Not indicated,Not indicated,,11,Illness cases
+2022-10-12,1115,E. coli O121:H19,Frozen Falafel,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o121h19-frozen-falafel-october-2022,See Advisory,See linked source
+2022-09-28,1105,Salmonella Litchfield,Seafood,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-seafood-october-2022,See Advisory,See linked source
+2022-09-14,1106,Listeria monocytogenes,Brie and Camembert Cheese,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-brie-and-camembert-soft-cheese-products-september-2022,See Advisory,See linked source
+2022-08-31,1097,Salmonella Mississippi,Unknown,103,Closed,Ended,Not indicated,Yes,Not indicated,Not indicated,,103,Illness cases
+2022-08-17,1095,Salmonella Typhimurium,Cantaloupe,87,Closed,Ended,Not indicated,Yes,Yes,Yes,,87,Illness cases
+2022-08-17,1087,Salmonella Senftenberg,Unknown,35,Closed,Ended,Not indicated,Yes,Not indicated,Not indicated,,35,Illness cases
+2022-08-17,1081,E. coli O157:H7,Unknown,Unknown,Closed,Ended,Not indicated,Yes,Yes,Yes,https://archive.cdc.gov/#/details?url=https://www.cdc.gov/ecoli/2022/o157h7-08-22/index.html,See CDC Notice,See linked source
+2022-08-03,1080,Cyclospora cayetanensis,Unknown,84,Closed,Ended,Not indicated,Yes,Yes,Yes,,84,Illness cases
+2022-07-27,1084,Cyclospora cayetanensis,Unknown,43,Closed,Ended,Not indicated,Yes,Not indicated,Yes,,43,Illness cases
+2022-06-29,1076,Unknown,Frozen Food,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/investigation-adverse-event-reports-french-lentil-leek-crumbles-june-2022,See Advisory,See linked source
+2022-06-22,1075,Salmonella Braenderup,Unknown,75,Closed,Ended,Not indicated,Yes,Not indicated,Not indicated,,75,Illness cases
+2022-06-22,1072,Salmonella Paratyphi B var. L(+) tartrate+,Unknown,14,Closed,Ended,Not indicated,Yes,Not indicated,Not indicated,,14,Illness cases
+2022-06-15,1070,Listeria monocytogenes,Unknown,12,Closed,Ended,Not indicated,Yes,Not indicated,Not indicated,,12,Illness cases
+2022-06-08,1068,E. coli O157:H7,Unknown,10,Closed,Ended,Not indicated,Yes,Not indicated,Not indicated,,10,Illness cases
+2022-06-01,1066,Hepatitis A Virus,Strawberries,Unknown,Closed,Ended,Not indicated,Yes,Yes,Not indicated,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-hepatitis-virus-strawberries-may-2022,See Advisory,See linked source
+2022-05-25,1067,Salmonella Senftenberg,Peanut Butter,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-peanut-butter-may-2022,See Advisory,See linked source
+2022-04-20,1064,Unknown,Dry Cereal,558,Closed,Ended,Not indicated,Not indicated,Yes,Yes,,558 adverse event reports,Adverse event reports
+2022-04-13,1057,Listeria monocytogenes,Ice Cream,Unknown,Closed,Ended,Yes,Yes,Yes,Not indicated,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-ice-cream-july-2022,See Advisory,See linked source
+2022-03-30,1060,Unknown,Meal Replacement Drink,6,Closed,Ended,Not indicated,Yes,Not indicated,Yes,,6 adverse event reports,Adverse event reports
+2022-03-16,1055,Salmonella Saintpaul,Unknown,60,Closed,Ended,Not indicated,Yes,Not indicated,Not indicated,,60,Illness cases
+2022-02-17,1056,Cronobacter sakazakii,Powdered Infant Formula,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/fda-investigation-cronobacter-infections-powdered-infant-formula-february-2022,See Advisory,See linked source
+2022-02-09,1040,Listeria monocytogenes,Unknown,20,Closed,Ended,Not indicated,Yes,Yes,Yes,,20,Illness cases
+2022-02-02,1054,Enteroinvasive E. coli O143:H26,Unknown,16,Closed,Ended,Not indicated,Yes,Not indicated,Not indicated,,16,Illness cases
+2022-01-10,1050,E. coli O121:H19,Romaine,4,Closed,Ended,Not indicated,Yes,Not indicated,Not indicated,,4,Illness cases
+2021-12-29,1052,E. coli O157:H7,Packaged Salad,Unknown,Closed,Ended,Not indicated,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-power-greens-packaged-salad-january-2022,See Advisory,See linked source
+2021-12-20,1039,Listeria monocytogenes,Packaged Salad,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-fresh-express-packaged-salad-december-2021,See Advisory,See linked source
+2021-12-15,1048,Listeria monocytogenes,Packaged Salad,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-dole-packaged-salad-december-2021,See Advisory,See linked source
+2021-11-24,1044,Salmonella Javiana,Cut Cantaloupe,65,Closed,Ended,Not indicated,Yes,Yes,Yes,,65,Illness cases
+2021-11-17,1043,E. coli O157:H7,Spinach,Unknown,Closed,Ended,Not indicated,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-spinach-november-2021,See Advisory,See linked source
+2021-10-06,1029,Listeria monocytogenes,Unknown,20,Closed,Ended,Not indicated,Yes,Yes,Yes,,20,Illness cases
+2021-09-15,1031,Salmonella Oranienburg,"Red, Yellow, and White Onions",Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-oranienburg-whole-fresh-onions-october-2021,See Advisory,See linked source
+2021-09-15,1025,Salmonella Thompson,Seafood,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-thompson-seafood-october-2021,See Advisory,See linked source
+2021-08-11,1026,Cyclospora,Unknown,40,Closed,Ended,Not indicated,Yes,Not indicated,Not indicated,,40,Illness cases
+2021-07-14,1019,Salmonella Typhimurium,Salad Greens,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-typhimurium-brightfarms-packaged-salad-greens-july-2021,See Advisory,See linked source
+2021-07-14,1020,Cyclospora,Unknown,130,Closed,Ended,Not indicated,Yes,Yes,Yes,,130,Illness cases
+2021-07-14,1010,E. coli O121,Cake Mix,Unknown,Closed,Ended,Not indicated,Yes,Yes,Yes,https://archive.cdc.gov/#/details?url=https://www.cdc.gov/ecoli/2021/o121-07-21/index.html,See CDC Notice,See linked source
+2021-06-09,1007,Salmonella Weltevreden,Shrimp,Unknown,Closed,Ended,Yes,Yes,Not indicated,Not indicated,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-weltevreden-frozen-pre-cooked-shrimp-april-2021,See Advisory,See linked source
+2021-04-21,1003,Salmonella,Cashew Brie,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-jules-cashew-brie-april-2021,See Advisory,See linked source
+2021-04-28,1004,E. coli O145:H28,Unknown,16,Closed,Ended,Not indicated,Yes,Not indicated,Not indicated,,16,Illness cases
+2021-03-17,999,Acute Non-viral Hepatitis,Alkaline Bottled Water,Unknown,Closed,Ended,Yes,Not indicated,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/investigation-acute-non-viral-hepatitis-illnesses-real-water-brand-alkaline-water-march-2021,See Advisory,See linked source
+2021-02-17,995,Listeria monocytogenes,Hispanic -style fresh and soft cheese,Unknown,Closed,Ended,Yes,Not indicated,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-listeria-monocytogenes-hispanic-style-fresh-and-soft-cheeses-february-2021,See Advisory,See linked source
+2021-02-17,994,E. coli O157:H7,Unknown,Unknown,Closed,Ended,Not indicated,Yes,Not indicated,Not indicated,https://archive.cdc.gov/#/details?url=https://www.cdc.gov/ecoli/2021/o157h7-02-21/index.html,See CDC Notice,See linked source
+2021-01-13,990,Salmonella Miami,Unknown,65,Closed,Ended,Not indicated,Yes,Not indicated,Yes,,65,Illness cases
+2020-12-23,11,Salmonella Potsdam,Unknown,7,Closed,Ended,Not indicated,Yes,Yes,Yes,,7,Illness cases
+2020-11-18,E-441626,E. coli O157:H7,Leafy Greens,Unknown,Closed,Ended,Not indicated,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-leafy-greens-december-2020,See Advisory,See linked source
+2020-11-18,5,E. coli O157:H7,Unknown,Unknown,Closed,Ended,Not indicated,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-unknown-food-fall-2020,See Advisory,See linked source
+2020-11-18,7,E. coli O157:H7,Unknown,Unknown,Closed,Ended,Not indicated,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-e-coli-o157h7-unknown-food-fall-2020,See Advisory,See linked source
+2020-11-18,E-439945,Salmonella Newport,Unknown,80,Closed,Ended,Not indicated,Yes,Yes,Yes,,80,Illness cases
+2020-11-18,4,Salmonella Paratyphi B,Unknown,18,Closed,Ended,Not indicated,Yes,Not indicated,Yes,,18,Illness cases
+2020-11-18,E-442972,Salmonella Thompson,Unknown,34,Closed,Ended,Not indicated,Yes,Not indicated,Not indicated,,34,Illness cases
+2020-11-18,E-435502,Salmonella Enteritidis,Peaches,Unknown,Closed,Ended,Yes,Yes,Yes,Yes,https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-salmonella-enteritidis-peaches-august-2020,See Advisory,See linked source
